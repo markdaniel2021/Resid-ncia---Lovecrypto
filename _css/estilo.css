@@ -1,0 +1,120 @@
+
+div#divcont1 strong {
+    color: blueviolet;
+}
+
+
+#divcont1 {
+    padding: 10px;
+}
+
+#divcont2 {
+    border-radius: 10px;
+    padding: 10px;
+
+}
+#imgindex {
+    padding: 20px;
+}
+#imgindex a:hover{
+    opacity: 20%;
+    scale: 20%;
+}
+
+footer p {
+    color: #666466;
+}
+
+form h1 {
+    color: blueviolet;
+}
+
+form#formlogin {
+    padding: 40px;
+    width: 33%;
+    background-color: rgb(241, 241, 241);
+    margin: auto;
+}
+
+form#contactus {
+   padding: 40px;
+   background-color: rgb(241, 241, 241);
+}
+
+form#formsignup {
+    padding: 40px;
+    background-color: rgb(241, 241, 241);
+}
+
+a#login {
+    color: #000000;
+}
+
+a#signup {
+    color: #ffffff;
+}
+
+a#startnow {
+    color: #ffffff;
+}
+
+.heading-title {
+    margin-bottom: 30px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.heading-title h3 {
+    margin-bottom: 0;
+    letter-spacing: 2px;
+    font-weight: normal;
+}
+
+.p-top-30 {
+    padding-top: 10px;
+}
+
+.half-txt {
+    width: 60%;
+    margin: 0 auto;
+    display: inline-block;
+    color: #7e7e7e;
+}
+
+.text-uppercase {
+    color: blueviolet;
+    text-transform: uppercase;
+}
+
+.team-img {
+    text-align: center;
+    position: static;
+    display: inline-block;
+    letter-spacing: 2px;
+    width: 100%;
+    border-radius: 10px !important;
+}
+
+.team-title {
+    text-align: center;
+    position: static;
+    padding: 10px 0;
+    display: inline-block;
+    letter-spacing: 2px;
+    width: 100%;
+}
+
+.team-title h5 {
+    margin-bottom: 0px;
+    display: block;
+    text-transform: uppercase;
+}
+
+.team-title span {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #a5a5a5;
+    letter-spacing: 1px;
+}
